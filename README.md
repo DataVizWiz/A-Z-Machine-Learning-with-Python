@@ -1,1 +1,1 @@
-# a-z-machine-learning-with-python
+# A-Z Machine Learning with Python
